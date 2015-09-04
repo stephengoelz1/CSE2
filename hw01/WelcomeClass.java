@@ -8,13 +8,10 @@
 //  run the program
 //      java WelcomeClass
 
-// define a class
 public class WelcomeClass{
     
-//  add main method
     public static void main(String[] args)  {
 
-// print the statement with a box around it
     System.out.println("    ----------------     ");
     System.out.println("    |    WELCOME    |    ");
     System.out.println("    -----------------    ");
