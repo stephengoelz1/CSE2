@@ -1,3 +1,6 @@
+//Stephen Goelz
+//CSE 01
+//Lab05
 //program to omplete basic math operations
 
 //import scanner so users can input their own data
