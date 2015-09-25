@@ -55,8 +55,7 @@ public class specialCalc {
                 
                 System.out.println (c);
                 System.out.println("Would you like to keep calculating?");
-                
-            
+                //assign new value to r to continue or end the loop
              r = YorN.next();
                 
             }
