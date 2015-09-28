@@ -14,7 +14,7 @@ public class specialCalc {
             
             
             
-            System.out.println("Would you like to calculate some numbers?");
+            System.out.println("Would you like to calculate some numbers? Y/N");
             
                  Scanner YorN = new Scanner(System.in);
             
