@@ -11,10 +11,7 @@ public class specialCalc {
         public static void main(String [] args) {
             
             //name scanners
-            
-            
-            
-            System.out.println("Would you like to calculate some numbers? Y/N");
+              System.out.println("Would you like to calculate some numbers? Y/N");
             
                  Scanner YorN = new Scanner(System.in);
             
@@ -59,6 +56,7 @@ public class specialCalc {
                 System.out.println (c);
                 System.out.println("Would you like to keep calculating?");
                 //assign new value to r to continue or end the loop
+                
              r = YorN.next();
                 
             }
