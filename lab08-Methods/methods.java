@@ -4,7 +4,8 @@ import java.util.Scanner; //imports scanner untility
 public class methods {
     
     
-    public static double mean (double num1, double num2, double num3, double num4, double num5, double num6, double num7, double num8, double num9, double num10) 
+    public static double mean (double num1, double num2, double num3, double num4, double num5,
+    double num6, double num7, double num8, double num9, double num10) 
     {
    
         
@@ -85,6 +86,4 @@ public class methods {
         System.out.println("Mean: " + mean(num1, num2, num3, num4, num5, num6, num7, num8, num9, num10)); //calls and prints the method that calculates the mean value of the set of numbers
         System.out.println("Median: " + median(num5, num6)); //calls and prints the method that calculates the median value of the set of numbers
     }
-    
-    
 }
